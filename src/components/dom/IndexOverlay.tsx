@@ -10,23 +10,20 @@ export const IndexOverlay = () => {
         <span className='text-base font-light uppercase pointer-events-none md:text-xl md:relative md:self-start indent-10 text-white/50 font-ubuntu whitespace-nowrap top-28' style={{ top: '10px' }}>
           <p className='italic text-2xl text-white/80' > Hello &nbsp; &nbsp; Everyone !</p>
           <span className='italic text-2xl text-white/80'> &nbsp; &nbsp; &nbsp; A &nbsp; Professional &nbsp; Developer </span> &nbsp;<span className='italic text-2xl text-white/80'>
-            with &nbsp; 8 &nbsp; years &nbsp; of &nbsp;  experience </span> <br />
+            with &nbsp; 6 &nbsp; years &nbsp; of &nbsp;  experience </span> <br />
         </span>
         <div className='flex flex-col items-center pointer-events-none md:self-end md:items-start'>
           <h2 className='relative italic lg:text-8xl text-[10vw] text-white/60 font-fog right-5'>
-            <span className='relative lg:text-8xl left-2 text-[11vw]'>2D / 3D Full-Stack</span>
-            &nbsp;&nbsp;
-            <span className='lg:text-8xl text-[11vw]'>D</span>e
-            <span className='font-light '>veloper</span>
+            <span className='relative lg:text-8xl left-2 text-[11vw]'>2D / 3D Web Developer</span>
           </h2>
-          <div className='mt-4 justify-around md:flex-row'>
-              <div className='mb-2 text-base font-light  md:text-xl text-white/50 font-ubuntu indent-10 whitespace-nowrap'>
+          <div className='mt-8 justify-around md:flex-row'>
+              <div className='mb-4 text-base font-light  md:text-xl text-white/50 font-ubuntu indent-10 whitespace-nowrap'>
                 - Design and Develop Websites From 2D Web Elements to 3D Web Integrations.
               </div>
-              <div className='mb-2 text-base font-light  md:text-xl text-white/50 font-ubuntu indent-10 whitespace-nowrap'>
+              <div className='mb-4 text-base font-light  md:text-xl text-white/50 font-ubuntu indent-10 whitespace-nowrap'>
                 - Develop 2D / 3D Games using  Three.js | Pixi.js | Phaser | Unity ...
               </div>
-              <div className='mb-2 text-base font-light  md:text-xl text-white/50 font-ubuntu indent-10 whitespace-nowrap'>
+              <div className='mb-4 text-base font-light  md:text-xl text-white/50 font-ubuntu indent-10 whitespace-nowrap'>
                 - Primary &nbsp; Skills  &nbsp;: &nbsp; React.js, Next.js, Node.js, Three.js, Unity, Pixi.js ...
               </div>
           </div>
