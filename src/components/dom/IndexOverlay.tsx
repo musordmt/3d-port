@@ -20,21 +20,15 @@ export const IndexOverlay = () => {
             <span className='font-light '>veloper</span>
           </h2>
           <div className='flex gap-2 flex-row justify-around md:flex-row'>
-            <div>
-              <span className='text-base font-light  md:text-xl text-white/50 font-ubuntu indent-10 whitespace-nowrap'>
+              <div className='text-base font-light  md:text-xl text-white/50 font-ubuntu indent-10 whitespace-nowrap'>
                 - Design and Develop Websites From 2D Web Elements to 3D Web Integrations.
-              </span>
-            </div>
-            <div>
-              <span className='text-base font-light  md:text-xl text-white/50 font-ubuntu indent-10 whitespace-nowrap'>
+              </div>
+              <div className='text-base font-light  md:text-xl text-white/50 font-ubuntu indent-10 whitespace-nowrap'>
                 - Develop 2D / 3D Games using  Three.js | Pixi.js | Phaser | Unity ...
-              </span>
-            </div>
-            <div>
-              <span className='text-base font-light  md:text-xl text-white/50 font-ubuntu indent-10 whitespace-nowrap'>
+              </div>
+              <div className='text-base font-light  md:text-xl text-white/50 font-ubuntu indent-10 whitespace-nowrap'>
                 - Primary &nbsp; Skills  &nbsp;: &nbsp; React.js, Next.js, Node.js, Three.js, Unity, Pixi.js ...
-              </span>
-            </div>
+              </div>
           </div>
         </div>
       </div>
