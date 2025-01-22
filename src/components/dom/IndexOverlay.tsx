@@ -19,7 +19,7 @@ export const IndexOverlay = () => {
             <span className='lg:text-8xl text-[11vw]'>D</span>e
             <span className='font-light '>veloper</span>
           </h2>
-          <div className='flex gap-2 justify-around md:flex-row'>
+          <div className='flex gap-2 flex-row justify-around md:flex-row'>
             <div>
               <span className='text-base font-light  md:text-xl text-white/50 font-ubuntu indent-10 whitespace-nowrap'>
                 - Design and Develop Websites From 2D Web Elements to 3D Web Integrations.
