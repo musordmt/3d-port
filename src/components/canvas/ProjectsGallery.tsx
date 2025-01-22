@@ -35,10 +35,6 @@ const ProjectsGallery: React.FC = () => {
         {
             position: [-0.8, 0, -0.6],
             rotation: [0, 0, 0],
-            // src: '/img/projects/summer.png',
-            // title: '3D Metaverse',
-            // url: 'https://summer-afternoon.vlucendo.com/',
-
             src: '/img/projects/configurator.png',
             title: "Cabinet Design",
             url: 'https://shelvesconfigurator.web.app/',
@@ -46,13 +42,9 @@ const ProjectsGallery: React.FC = () => {
         {
             position: [0.8, 0, -0.6],
             rotation: [0, 0, 0],
-            // src: '/img/projects/metal.png',
-            // title: 'Pipe Design',
-            // url: 'https://ferrumpipe.com/',
-
-            src: '/img/projects/ocean.png',
-            title: "3D Ocean",
-            url: 'https://ryo-3d-ocean.netlify.app/',
+            src: '/img/projects/festival.jpg',
+            title: "ZIZO",
+            url: 'https://wearezizo.com/',
         },
         // Left
         {
@@ -65,9 +57,9 @@ const ProjectsGallery: React.FC = () => {
         {
             position: [-2.3, 0, 1.5],
             rotation: [0, Math.PI / 2.5, 0],
-            src: '/img/projects/3d digital world.png',
-            title: '3D Digital World',
-            url: "https://technology.panasonic.eu/av-digital-world/"
+            src: '/img/projects/nectarverse.PNG',
+            title: 'Nectarverse',
+            url: "http://nectarverse-11d5-staging.fly.dev/explore"
         },
         {
             position: [-3, 0, 2.5],
@@ -80,31 +72,17 @@ const ProjectsGallery: React.FC = () => {
         {
             position: [1.75, 0, 0.25],
             rotation: [0, -Math.PI / 2.5, 0],
-            src: '/img/projects/shed.png',
-            title: "3D Shed Configurator",
-            url: 'https://webshed.royssheds.com.au/',
+            src: '/img/projects/nova.png',
+            title: "Exhibition",
+            url: 'https://app.tetra3D.com',
         },
         {
             position: [2.3, 0, 1.5],
             rotation: [0, -Math.PI / 2.5, 0],
-            src: '/img/projects/metaverse.png',
+            src: '/img/projects/ogp.jpg',
             title: "3D Metaverse",
-            url: 'https://www.azuki.com/world/hilumia',
+            url: 'https://vws.bal-inc.jp/',
         },
-        // {
-        //     position: [-1.2, 0, 2.8],
-        //     rotation: [0, Math.PI / 3, 0],
-        //     src: '/img/projects/ocean.png',
-        //     title: "3D Ocean",
-        //     url: 'https://ryo-3d-ocean.netlify.app/',
-        // },
-        // {
-        //     position: [1, 0, 2.8],
-        //     rotation: [0, -Math.PI / 3, 0],
-        //     src: '/img/projects/configurator.png',
-        //     title: "Cabinet Design",
-        //     url: 'https://shelvesconfigurator.web.app/',
-        // },
         {
             position: [3, 0, 2.5],
             rotation: [0, -Math.PI / 2.5, 0],
