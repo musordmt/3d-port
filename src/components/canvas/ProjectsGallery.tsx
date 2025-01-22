@@ -72,8 +72,8 @@ const ProjectsGallery: React.FC = () => {
         {
             position: [1.75, 0, 0.25],
             rotation: [0, -Math.PI / 2.5, 0],
-            src: '/img/projects/nova.png',
-            title: "Exhibition",
+            src: '/img/projects/tetra.PNG',
+            title: "Tetra 3D Exhibition",
             url: 'https://app.tetra3D.com',
         },
         {
